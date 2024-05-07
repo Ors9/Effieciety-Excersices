@@ -2,6 +2,7 @@
 /**
  * There a list of efficiency exercises from exams of the open university 
  * to use maximaize the usage click ctrl f and write the name of function you need 
+ * to click ctrl f and find the excersice by function name
  *
  * @author (Or saban)
  * @version (a version number or a date)
